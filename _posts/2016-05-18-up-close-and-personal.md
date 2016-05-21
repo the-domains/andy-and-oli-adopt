@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-05-21T04:04:27.245Z'
+datePublished: '2016-05-21T04:11:47.014Z'
 sourcePath: _posts/2016-05-18-up-close-and-personal.md
 author: []
-dateModified: '2016-05-18T14:15:31.077Z'
+dateModified: '2016-05-21T04:11:43.009Z'
 title: 'Up Close and Personal:'
-description: 'When I met Andrew, I instantly admired his inner strength: his strong sense of self balanced by his deep compassion for all people. A quality I know he will pass on to our child.'
+description: 'It is one thing to feel lucky to be able to call this man my husband, but it is amazing to be constantly reassured when I hear from friends and family that having Oliver in their lives is considered a blessing as well. He carries a calm, fluid energy that is both beautiful and a powerful grounding agent, especially for me. I look at him and see a foxy, well-put-together man with a radiant soul and dazzling personality (when he’s not put on the spot). And his silliness and humor, polished in Vienna, Austria while achieving his degree in Theatre keeps me laughing in ways no one else can.'
 starred: false
 inFeed: true
 hasPage: true
@@ -14,8 +14,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Meet Andrew:](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8b72912395918110251acbae2504dd061333af5.jpg)
+![Meet Oliver](https://the-grid-user-content.s3-us-west-2.amazonaws.com/473ec168-b03f-43f9-9ef8-bb9e4a24ce0e.jpg)
 
-When I met Andrew, I instantly admired his inner strength: his strong sense of self balanced by his deep compassion for all people. A quality I know he will pass on to our child.
+It is one thing to feel lucky to be able to call this man my husband, but it is amazing to be constantly reassured when I hear from friends and family that having Oliver in their lives is considered a blessing as well. He carries a calm, fluid energy that is both beautiful and a powerful grounding agent, especially for me. I look at him and see a foxy, well-put-together man with a radiant soul and dazzling personality (when he's not put on the spot). And his silliness and humor, polished in Vienna, Austria while achieving his degree in Theatre keeps me laughing in ways no one else can.
 
-Andrew graduated with a BA in Dance from CalState Long Beach in 2010 and dance is still a major thread in his professional life. Theater being his professional realm, he works part-time as an Assistant Technical Director at local theaters and as a part time Costume Designer out of our home. His work mostly takes place evenings and weekends, this allows him to be at home during the day once our bundle of joy arrives. He can't wait to teach our little one his first dance steps, even before they can walk. Andrew loves to paint and draw, something that will come in handy when doing art projects with our child during playtime. He also values communication, a key ingredient for parenting, our relationship, and our friends and families. I adore his passion for love, life and his ability to make me laugh from the deepest part of my soul, something that renews my love for him daily.
+Picturing him as a dad is not difficult. His job at a Major Film Studio has a specialized title and helps him be the strong "provider" he likes to be. Any opportunity he has with children of friends and family displays his amazingly playful interactions and highlights his ability to appropriately speak with children. As our child grows, I see Oliver's diligent and organized manner manifesting a healthy sense of responsibility to the child's self as well as to those around. Especially because Oliver is a politically aware individual that likes to promote mindful understandings of our society and the importance of speaking up. All of these traits, I view as strengths and admire that he carries them so well and presents them invitingly.
