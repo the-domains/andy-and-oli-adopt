@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Andy and Oli ADOPT]]></title>
         <description><![CDATA[Andy and Oli ADOPT]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/andy-and-oli-adopt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 03:52:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 21 May 2016 03:53:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/andy-and-oli-adopt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a92f642d-2afc-4538-96e6-fb8de751e3ba.jpg">]]></description>
+            <link>https://thegrid.ai/andy-and-oli-adopt/5275e3cc-bd1a-4b6a-8014-0954c694e964/index.html</link>
+            <guid isPermaLink="false">5275e3cc-bd1a-4b6a-8014-0954c694e964</guid>
+            <pubDate>Sat, 21 May 2016 03:52:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/641c132d-f7ac-41c1-8671-49b3bc2229ec.jpg">]]></description>
-            <link>undefinedb2db83cd-ee03-40aa-aa24-8badfdb7f9bd/index.html</link>
+            <link>https://thegrid.ai/andy-and-oli-adopt/b2db83cd-ee03-40aa-aa24-8badfdb7f9bd/index.html</link>
             <guid isPermaLink="false">b2db83cd-ee03-40aa-aa24-8badfdb7f9bd</guid>
             <pubDate>Sat, 21 May 2016 03:52:40 GMT</pubDate>
         </item>
