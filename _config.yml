@@ -1,4 +1,3 @@
-layout_spectrum: 0.20245424564927816
 typography_spectrum: 0.4783658084925264
 color:
   brandStrength: 0.06905153580009937
@@ -11,4 +10,9 @@ color:
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
+layout_spectrum: 0.20245424564927816
+author:
+  name: Andrew and Oliver Palomares
+  email: andyandoliadopt@gmail.com
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3cf8b64-8525-41f5-b0fe-436f9802c7e7.jpg'
 name: Andy and Oli ADOPT
