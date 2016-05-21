@@ -1,14 +1,14 @@
 layout_spectrum: 0.37836984591558576
 typography_spectrum: 0.9722637922968715
 color:
-  brandStrength: 0.9432648241054267
-  lightness: 0.11119406437501311
-  saturation: 0.029561150586232543
-  rhythmicContrast: 0.930223276372999
+  brandStrength: 0.06905153580009937
+  lightness: 0.016356106381863356
+  saturation: 0.66819803789258
+  rhythmicContrast: 0.6077928110025823
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
 name: Andy and Oli ADOPT
