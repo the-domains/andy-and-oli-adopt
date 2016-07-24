@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Andy and Oli ADOPT]]></title>
         <description><![CDATA[Andy and Oli ADOPT]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://andyandoliadopt.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 22:30:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jul 2016 22:34:01 GMT</lastBuildDate>
+        <atom:link href="http://andyandoliadopt.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5781f34-9147-4813-8512-ec5a457301fe.jpg">]]></description>
-            <link>undefined631d054d-6267-441d-ab93-caea84ea1b17/index.html</link>
+            <title><![CDATA[Long Beach, CA]]></title>
+            <description><![CDATA[<article><h1>Long Beach, CA</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c7294bee918a89dd5c06ff5049e71cc2/croprotate.jpg?cropheight=2551&cropwidth=3570&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb5781f34-9147-4813-8512-ec5a457301fe.jpg&x=0&y=0"></article>]]></description>
+            <link>http://andyandoliadopt.com/631d054d-6267-441d-ab93-caea84ea1b17/index.html</link>
             <guid isPermaLink="false">631d054d-6267-441d-ab93-caea84ea1b17</guid>
-            <pubDate>Sun, 24 Jul 2016 22:30:01 GMT</pubDate>
+            <pubDate>Sun, 24 Jul 2016 22:33:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
