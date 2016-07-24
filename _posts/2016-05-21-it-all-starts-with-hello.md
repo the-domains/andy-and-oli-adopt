@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-07-24T18:54:56.795Z'
+datePublished: '2016-07-24T19:04:45.972Z'
 sourcePath: _posts/2016-05-21-it-all-starts-with-hello.md
-author: []
+author:
+  - name: Aaron Delgado
+    url: 'https://instagram.com/cutabovephotos'
 via: {}
-dateModified: '2016-07-24T18:54:56.400Z'
+dateModified: '2016-07-24T19:04:45.439Z'
 title: Our Adoption Journey
 publisher: {}
 description: >-
@@ -69,7 +71,7 @@ Being a dancer he can't wait to teach our little one's first dance steps, even b
 ## We appreciate the value of home while looking to life outside for adventures. We explore our world's beautiful sceneries of "The Outdoors" by scuba diving, skiing/snowboarding, or hiking coastal bluffs to catch a magnificent sunset. Sitting around a bonfire with our family, telling ghosts stories in hopes of giving kids the goosies, is a highlight when camping. Culturally, we adore the variety of stage-productions and visiting local museums to enrich our experiences.
 
 # **The Road that Lies Ahead...**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7b8cd69-e0ea-4b21-ad17-bdba361f08d4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc049a9ad600bcd4ac606a2958d10c366f50b532.jpg)
 
 ## You know those people that stand around looking confused, not knowing which direction to go? That's NOT us! Our journey involves raising a child to be sure-footed, empathic, and respectful, to pave a road of positive footprints. We desire to achieve this by respecting and integrating your child's individuality.
 
