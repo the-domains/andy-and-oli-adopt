@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-24T18:43:32.495Z'
+datePublished: '2016-07-24T18:44:19.939Z'
 sourcePath: _posts/2016-05-21-it-all-starts-with-hello.md
 author: []
 via: {}
-dateModified: '2016-07-24T18:43:31.994Z'
+dateModified: '2016-07-24T18:44:19.399Z'
 title: Our Adoption Journey
 publisher: {}
 description: >-
