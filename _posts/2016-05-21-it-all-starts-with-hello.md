@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-07-24T19:07:38.515Z'
+datePublished: '2016-07-24T19:10:33.963Z'
 sourcePath: _posts/2016-05-21-it-all-starts-with-hello.md
-author:
-  - name: Aaron Delgado
-    url: 'https://instagram.com/cutabovephotos'
+author: []
 via: {}
-dateModified: '2016-07-24T19:07:38.033Z'
+dateModified: '2016-07-24T19:10:33.261Z'
 title: Our Adoption Journey
 publisher: {}
 description: 'Andrew and Oliver Palomares: 1-877-897-8367 or AndyandOliAdopt@gmail.com'
