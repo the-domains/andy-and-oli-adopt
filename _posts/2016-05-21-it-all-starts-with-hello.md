@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-24T19:35:16.515Z'
+datePublished: '2016-07-24T19:36:04.350Z'
 sourcePath: _posts/2016-05-21-it-all-starts-with-hello.md
 author: []
 via: {}
-dateModified: '2016-07-24T19:35:15.905Z'
+dateModified: '2016-07-24T19:36:03.793Z'
 title: Our Adoption Journey
 publisher: {}
 description: 'Andrew and Oliver Palomares: 1-877-897-8367 or AndyandOliAdopt@gmail.com'
@@ -31,7 +31,7 @@ Andrew and Oliver Palomares: 1-877-897-8367 or AndyandOliAdopt@gmail.com
 ### **Andrew** is a first generation American of Mexican decent, and is strongly connected to his "big Mexican family". **Oliver**, adopted by a large family of his own, was born and raised in Germany. When we imagined having children, adoption was the most obvious path. After reflecting on Oliver's closed adoption, we recognized an opportunity to provide a positive experience through open adoption, especially because we would like to incorporate our birthmother as part of our extended family to travel down this path of love.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24318756-2818-4c9d-8bca-278af67859f8.jpg)
 ![Mammoth Skiing 2012](https://the-grid-user-content.s3-us-west-2.amazonaws.com/832e7f7d-f85d-498a-ac6a-bea32eaac675.jpg)
-![Christmas 2015](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/075c0972a5ca20a4e5f013ffa82ce044/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F185944ea-6735-48dd-a58b-a0c04cd9ca4b.jpg&x=0&y=0)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/075c0972a5ca20a4e5f013ffa82ce044/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F185944ea-6735-48dd-a58b-a0c04cd9ca4b.jpg&x=0&y=0)
 
 # **A Day in the Life**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf527f6453313dad7d75f27e881479d04c13e657.jpg)
