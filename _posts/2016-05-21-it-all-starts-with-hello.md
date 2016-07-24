@@ -1,21 +1,14 @@
 ---
-datePublished: '2016-07-24T19:04:45.972Z'
+datePublished: '2016-07-24T19:07:38.515Z'
 sourcePath: _posts/2016-05-21-it-all-starts-with-hello.md
 author:
   - name: Aaron Delgado
     url: 'https://instagram.com/cutabovephotos'
 via: {}
-dateModified: '2016-07-24T19:04:45.439Z'
+dateModified: '2016-07-24T19:07:38.033Z'
 title: Our Adoption Journey
 publisher: {}
-description: >-
-  Andrew is a first generation American of Mexican decent, and is strongly
-  connected to his “big Mexican family”. Oliver, adopted by a large family of
-  his own, was born and raised in Germany. When we imagined having children,
-  adoption was the most obvious path. After reflecting on Oliver’s closed
-  adoption, we recognized an opportunity to provide a positive experience
-  through open adoption, especially because we would like to incorporate our
-  birthmother as part of our extended family to travel down this path of love.
+description: 'Andrew and Oliver Palomares: 1-877-897-8367 or AndyandOliAdopt@gmail.com'
 starred: false
 inFeed: true
 hasPage: false
@@ -24,6 +17,8 @@ _type: MediaObject
 
 ---
 # **Our Adoption Journey**
+
+Andrew and Oliver Palomares: 1-877-897-8367 or AndyandOliAdopt@gmail.com
 ![Oliver and Andrew Palomares: 1-877-897-8367 or AndyandOliAdopt@gmail.com ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed5517492887cff0288a4a8acead4170f8aac1fe.jpg)
 
 ## You know those couples you see in public gushing over some stranger's baby, looking like they're about to burst at the seams? That's us! Now imagine this is your baby we're fawning over!
