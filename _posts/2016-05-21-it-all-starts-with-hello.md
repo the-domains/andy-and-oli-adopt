@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-24T18:23:25.913Z'
+datePublished: '2016-07-24T18:42:52.587Z'
 sourcePath: _posts/2016-05-21-it-all-starts-with-hello.md
 author: []
 via: {}
-dateModified: '2016-07-24T18:23:25.479Z'
+dateModified: '2016-07-24T18:42:52.225Z'
 title: Our Adoption Journey
 publisher: {}
 description: >-
@@ -57,7 +57,7 @@ Oliver's family in Europe, likewise, is thrilled to welcome our first child as s
 Being a dancer he can't wait to teach our little one's first dance steps, even before he or she can walk. Andrew loves to paint and draw, something that will come in handy when doing art projects with our child. He also values communication, a key ingredient for parenting, relationships, friends and family. I adore his passion for love, life and his ability to make me laugh from the deepest part of my soul, something that renews my love for him daily.
 
 # **Meet Oliver:**
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b44e53d6c1467b9eacd8aa2dba5ce653/croprotate.jpg?cropheight=2100&cropwidth=1499&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0da447d1-563a-47ec-9fc7-f8695d4fa251.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4643df31a32f7ffaf9b943646c6e05de1fedcd19.jpg)
 
 ## I feel lucky to call Oliver my husband, and I'm reassured as others consider him a blessing as well. His calm, fluid energy is beautiful and a powerful grounding agent, especially for me. With his radiant soul and dazzling personality, his silliness and humor keeps me laughing in ways no one else can.
 
