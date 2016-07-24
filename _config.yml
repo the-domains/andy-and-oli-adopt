@@ -1,4 +1,4 @@
-typography_spectrum: 0.16406820621341467
+typography_spectrum: 0.5807819911278784
 color:
   brandStrength: 0.07892272574827075
   lightness: 0.944922793423757
@@ -10,7 +10,7 @@ color:
     - '#BEEB9F'
     - '#79BD8F'
     - '#00A388'
-layout_spectrum: 0.11647746991366148
+layout_spectrum: 0.301140263909474
 author:
   name: Andrew and Oliver Palomares
   email: andyandoliadopt@gmail.com
