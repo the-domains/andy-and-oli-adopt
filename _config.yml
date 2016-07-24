@@ -1,18 +1,19 @@
-typography_spectrum: 0.4783658084925264
+typography_spectrum: 0.16406820621341467
 color:
-  brandStrength: 0.06905153580009937
-  lightness: 0.016356106381863356
-  saturation: 0.66819803789258
-  rhythmicContrast: 0.6077928110025823
+  brandStrength: 0.07892272574827075
+  lightness: 0.944922793423757
+  saturation: 0.853071826742962
+  rhythmicContrast: 0.8931987306568772
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
-layout_spectrum: 0.20245424564927816
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+layout_spectrum: 0.11647746991366148
 author:
   name: Andrew and Oliver Palomares
   email: andyandoliadopt@gmail.com
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3cf8b64-8525-41f5-b0fe-436f9802c7e7.jpg'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3cf8b64-8525-41f5-b0fe-436f9802c7e7.jpg
 name: Andy and Oli ADOPT
