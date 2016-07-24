@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-24T19:36:04.350Z'
+datePublished: '2016-07-24T19:38:54.935Z'
 sourcePath: _posts/2016-05-21-it-all-starts-with-hello.md
 author: []
 via: {}
-dateModified: '2016-07-24T19:36:03.793Z'
+dateModified: '2016-07-24T19:38:54.769Z'
 title: Our Adoption Journey
 publisher: {}
 description: 'Andrew and Oliver Palomares: 1-877-897-8367 or AndyandOliAdopt@gmail.com'
