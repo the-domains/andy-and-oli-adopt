@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-24T18:51:48.611Z'
+datePublished: '2016-07-24T18:53:48.091Z'
 sourcePath: _posts/2016-05-21-it-all-starts-with-hello.md
 author: []
 via: {}
-dateModified: '2016-07-24T18:51:48.197Z'
+dateModified: '2016-07-24T18:53:47.596Z'
 title: Our Adoption Journey
 publisher: {}
 description: >-
@@ -64,6 +64,13 @@ Picturing him as a dad is not difficult because of his amazingly playful interac
 Being a dancer he can't wait to teach our little one's first dance steps, even before he or she can walk. Andrew loves to paint and draw, something that will come in handy when doing art projects with our child. He also values communication, a key ingredient for parenting, relationships, friends and family. I adore his passion for love, life and his ability to make me laugh from the deepest part of my soul, something that renews my love for him daily.
 
 # **The Fun We Have:**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a02f124-9f77-4b9e-bdc2-f810901e1bea.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac1eb3384fb6bdcc8ff7f18ea9d1a9d57cff7a51.jpg)
 
 ## We appreciate the value of home while looking to life outside for adventures. We explore our world's beautiful sceneries of "The Outdoors" by scuba diving, skiing/snowboarding, or hiking coastal bluffs to catch a magnificent sunset. Sitting around a bonfire with our family, telling ghosts stories in hopes of giving kids the goosies, is a highlight when camping. Culturally, we adore the variety of stage-productions and visiting local museums to enrich our experiences.
+
+# **The Road that Lies Ahead...**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7b8cd69-e0ea-4b21-ad17-bdba361f08d4.jpg)
+
+## You know those people that stand around looking confused, not knowing which direction to go? That's NOT us! Our journey involves raising a child to be sure-footed, empathic, and respectful, to pave a road of positive footprints. We desire to achieve this by respecting and integrating your child's individuality.
+
+Again, we hope you will allow us to get to know you and the aspirations you have for your child. Thank you so much for taking time to find us. No matter what, we send you positivity in hopes that you find the path that works best for you and your baby.
