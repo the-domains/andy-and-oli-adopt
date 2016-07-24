@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-24T18:05:39.360Z'
+datePublished: '2016-07-24T18:13:30.764Z'
 sourcePath: _posts/2016-05-21-it-all-starts-with-hello.md
 author: []
 via: {}
-dateModified: '2016-07-24T18:05:38.989Z'
+dateModified: '2016-07-24T18:13:30.171Z'
 title: Our Adoption Journey
 publisher: {}
-description: ''
+description: 'Oliver and Andrew Palomares: 1-877-897-8367 or AndyandOliAdopt@gmail.com '
 starred: false
 inFeed: true
 hasPage: false
@@ -15,7 +15,7 @@ _type: MediaObject
 
 ---
 # Our Adoption Journey
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed5517492887cff0288a4a8acead4170f8aac1fe.jpg)
+![Oliver and Andrew Palomares: 1-877-897-8367 or AndyandOliAdopt@gmail.com ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed5517492887cff0288a4a8acead4170f8aac1fe.jpg)
 
 ## You know those couples you see in public gushing over some stranger's baby, looking like they're about to burst at the seams? That's us! Now imagine this is your baby we're fawning over!
 
@@ -34,3 +34,24 @@ Andrew is a first generation American of Mexican decent, and is strongly connect
 ## Long Beach is an amazingly diverse city with a vibrant community. Living in our apartment that overlooks the beach, our weekend starts off with breakfast enjoyed on the balcony feeling the warm summer breeze. We look forward to building sandcastles and getting our feet wet with our little one before strolling around to take advantage of the many parks, coffee shops, and local businesses while the baby naps in the stroller. As we walk back home, we pass a large playground and imagine the day our child is able to join the many kids in their laughter and play.
 
 At home, while we prepare dinner, we look over to the dining-living room area and visualize one of us tending to our child, the other cooking, sharing with each other our favorite moments of the day. Before bed, we foresee snuggling up and reading our child's favorite book for the ninetieth time and singing a lullaby to close out the day.
+
+# **Relatives Galore**
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bca4215ce52f136819330255164e745f769fc5d2.jpg)
+
+## One thing is certain; there's no shortage of loving relatives as Andrew's family all live close by. Since beginning our adoption journey, everyone shares excitement about the addition to our monthly birthday celebrations. We've heard aunts debate who will be "Best Babysitter" with techniques of pottie training, being swimming coach, or teaching sign language. But all agree to teach Spanish and instill good manners. Although, Grandma Maye says there's no way any of her sisters will upstage her plans to be "favorite".
+
+Oliver's family in Europe, likewise, is thrilled to welcome our first child as soon as possible. Oliver's sister and Godson in Switzerland, eagerly anticipate exploring the Alps together. The remaining family plans on cultivating our child's understanding of German culture in ways such as singing German folk songs.Of course, we will appreciate what our families share of our cultural backgrounds, but we will also be ambitious in exploring and sharing with them any of our child's ethnic roots.
+
+# **Meet Andrew:**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb9ea349-8b52-4574-ab88-cb36653eca16.jpg)
+
+## When I met Andrew, I instantly admired his inner strength - his strong sense of self, balanced by his deep compassion for all people; a quality I know he will pass on to our child. Because his work in theater provides flexibility, he will be the primary caretaker of our bundle of joy.
+
+Being a dancer he can't wait to teach our little one's first dance steps, even before he or she can walk. Andrew loves to paint and draw, something that will come in handy when doing art projects with our child. He also values communication, a key ingredient for parenting, relationships, friends and family. I adore his passion for love, life and his ability to make me laugh from the deepest part of my soul, something that renews my love for him daily.
+
+# **Meet Oliver:**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0da447d1-563a-47ec-9fc7-f8695d4fa251.jpg)
+
+## I feel lucky to call Oliver my husband, and I'm reassured as others consider him a blessing as well. His calm, fluid energy is beautiful and a powerful grounding agent, especially for me. With his radiant soul and dazzling personality, his silliness and humor keeps me laughing in ways no one else can.
+
+Picturing him as a dad is not difficult because of his amazingly playful interactions and abilities to appropriately speak with children. I know he will be eager to get home from work to be on "Daddy-Duty". As our child grows, I see Oliver's diligence and organization manifest a healthy sense of responsibility. As a politically aware individual, he promotes mindfulness of our society and the importance of ones voice. All of these traits are strengths I admire.
