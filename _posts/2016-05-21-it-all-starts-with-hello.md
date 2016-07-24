@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-24T18:42:52.587Z'
+datePublished: '2016-07-24T18:43:32.495Z'
 sourcePath: _posts/2016-05-21-it-all-starts-with-hello.md
 author: []
 via: {}
-dateModified: '2016-07-24T18:42:52.225Z'
+dateModified: '2016-07-24T18:43:31.994Z'
 title: Our Adoption Journey
 publisher: {}
 description: >-
@@ -21,7 +21,7 @@ inNav: false
 _type: MediaObject
 
 ---
-# Our Adoption Journey
+# **Our Adoption Journey**
 ![Oliver and Andrew Palomares: 1-877-897-8367 or AndyandOliAdopt@gmail.com ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed5517492887cff0288a4a8acead4170f8aac1fe.jpg)
 
 ## You know those couples you see in public gushing over some stranger's baby, looking like they're about to burst at the seams? That's us! Now imagine this is your baby we're fawning over!
