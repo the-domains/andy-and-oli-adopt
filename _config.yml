@@ -1,4 +1,4 @@
-typography_spectrum: 0.5807819911278784
+typography_spectrum: 0.16406820621341467
 color:
   brandStrength: 0.07892272574827075
   lightness: 0.944922793423757
@@ -10,10 +10,15 @@ color:
     - '#BEEB9F'
     - '#79BD8F'
     - '#00A388'
-layout_spectrum: 0.301140263909474
+layout_spectrum: 0.11647746991366148
 author:
   name: Andrew and Oliver Palomares
   email: andyandoliadopt@gmail.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3cf8b64-8525-41f5-b0fe-436f9802c7e7.jpg
 name: Andy and Oli ADOPT
+navigation:
+  - id: 'http://www.iheartadoption.org/users/andyoliadopt'
+    url: 'http://www.iheartadoption.org/users/andyoliadopt'
+    name: Our Agency's Site
+    type: external
