@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-24T18:45:40.714Z'
+datePublished: '2016-07-24T18:51:48.611Z'
 sourcePath: _posts/2016-05-21-it-all-starts-with-hello.md
 author: []
 via: {}
-dateModified: '2016-07-24T18:45:40.331Z'
+dateModified: '2016-07-24T18:51:48.197Z'
 title: Our Adoption Journey
 publisher: {}
 description: >-
@@ -55,3 +55,15 @@ Oliver's family in Europe, likewise, is thrilled to welcome our first child as s
 ## I feel lucky to call Oliver my husband, and I'm reassured as others consider him a blessing as well. His calm, fluid energy is beautiful and a powerful grounding agent, especially for me. With his radiant soul and dazzling personality, his silliness and humor keeps me laughing in ways no one else can.
 
 Picturing him as a dad is not difficult because of his amazingly playful interactions and abilities to appropriately speak with children. I know he will be eager to get home from work to be on "Daddy-Duty". As our child grows, I see Oliver's diligence and organization manifest a healthy sense of responsibility. As a politically aware individual, he promotes mindfulness of our society and the importance of ones voice. All of these traits are strengths I admire.
+
+# **Meet Andrew:**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5353b80a-011e-4d42-bd9f-bbd1253a4d4a.jpg)
+
+## When I met Andrew, I instantly admired his inner strength - his strong sense of self, balanced by his deep compassion for all people; a quality I know he will pass on to our child. Because his work in theater provides flexibility, he will be the primary caretaker of our bundle of joy.
+
+Being a dancer he can't wait to teach our little one's first dance steps, even before he or she can walk. Andrew loves to paint and draw, something that will come in handy when doing art projects with our child. He also values communication, a key ingredient for parenting, relationships, friends and family. I adore his passion for love, life and his ability to make me laugh from the deepest part of my soul, something that renews my love for him daily.
+
+# **The Fun We Have:**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a02f124-9f77-4b9e-bdc2-f810901e1bea.jpg)
+
+## We appreciate the value of home while looking to life outside for adventures. We explore our world's beautiful sceneries of "The Outdoors" by scuba diving, skiing/snowboarding, or hiking coastal bluffs to catch a magnificent sunset. Sitting around a bonfire with our family, telling ghosts stories in hopes of giving kids the goosies, is a highlight when camping. Culturally, we adore the variety of stage-productions and visiting local museums to enrich our experiences.
