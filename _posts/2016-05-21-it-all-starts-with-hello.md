@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-24T18:44:19.939Z'
+datePublished: '2016-07-24T18:45:40.714Z'
 sourcePath: _posts/2016-05-21-it-all-starts-with-hello.md
 author: []
 via: {}
-dateModified: '2016-07-24T18:44:19.399Z'
+dateModified: '2016-07-24T18:45:40.331Z'
 title: Our Adoption Journey
 publisher: {}
 description: >-
@@ -48,13 +48,6 @@ At home, while we prepare dinner, we look over to the dining-living room area an
 ## One thing is certain; there's no shortage of loving relatives as Andrew's family all live close by. Since beginning our adoption journey, everyone shares excitement about the addition to our monthly birthday celebrations. We've heard aunts debate who will be "Best Babysitter" with techniques of pottie training, being swimming coach, or teaching sign language. But all agree to teach Spanish and instill good manners. Although, Grandma Maye says there's no way any of her sisters will upstage her plans to be "favorite".
 
 Oliver's family in Europe, likewise, is thrilled to welcome our first child as soon as possible. Oliver's sister and Godson in Switzerland, eagerly anticipate exploring the Alps together. The remaining family plans on cultivating our child's understanding of German culture in ways such as singing German folk songs.Of course, we will appreciate what our families share of our cultural backgrounds, but we will also be ambitious in exploring and sharing with them any of our child's ethnic roots.
-
-# **Meet Andrew:**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb9ea349-8b52-4574-ab88-cb36653eca16.jpg)
-
-## When I met Andrew, I instantly admired his inner strength - his strong sense of self, balanced by his deep compassion for all people; a quality I know he will pass on to our child. Because his work in theater provides flexibility, he will be the primary caretaker of our bundle of joy.
-
-Being a dancer he can't wait to teach our little one's first dance steps, even before he or she can walk. Andrew loves to paint and draw, something that will come in handy when doing art projects with our child. He also values communication, a key ingredient for parenting, relationships, friends and family. I adore his passion for love, life and his ability to make me laugh from the deepest part of my soul, something that renews my love for him daily.
 
 # **Meet Oliver:**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4643df31a32f7ffaf9b943646c6e05de1fedcd19.jpg)
